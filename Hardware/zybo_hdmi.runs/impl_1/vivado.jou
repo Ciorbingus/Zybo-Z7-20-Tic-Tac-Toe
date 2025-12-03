@@ -1,0 +1,24 @@
+#-----------------------------------------------------------
+# Vivado v2024.1 (64-bit)
+# SW Build 5076996 on Wed May 22 18:37:14 MDT 2024
+# IP Build 5075265 on Wed May 22 21:45:21 MDT 2024
+# SharedData Build 5076995 on Wed May 22 18:29:18 MDT 2024
+# Start of session at: Tue Dec  2 18:45:32 2025
+# Process ID: 18288
+# Current directory: A:/Facultate/Labs/SSC/TicTacToe/Hardware/zybo_hdmi.runs/impl_1
+# Command line: vivado.exe -log hdmi_wrapper.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source hdmi_wrapper.tcl -notrace
+# Log file: A:/Facultate/Labs/SSC/TicTacToe/Hardware/zybo_hdmi.runs/impl_1/hdmi_wrapper.vdi
+# Journal file: A:/Facultate/Labs/SSC/TicTacToe/Hardware/zybo_hdmi.runs/impl_1\vivado.jou
+# Running On        :Tzar
+# Platform          :Windows Server 2016 or Windows 10
+# Operating System  :26100
+# Processor Detail  :12th Gen Intel(R) Core(TM) i5-12450H
+# CPU Frequency     :2496 MHz
+# CPU Physical cores:8
+# CPU Logical cores :12
+# Host memory       :16831 MB
+# Swap memory       :7247 MB
+# Total Virtual     :24079 MB
+# Available Virtual :9457 MB
+#-----------------------------------------------------------
+source hdmi_wrapper.tcl -notrace
